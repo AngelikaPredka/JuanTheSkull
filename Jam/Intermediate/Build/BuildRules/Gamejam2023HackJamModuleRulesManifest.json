@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Jam\\Intermediate\\Source\\Gamejam2023HackJam.Build.cs",
+		"C:\\Jam\\Intermediate\\Source\\Gamejam2023HackJam.Target.cs",
+		"C:\\Jam\\Intermediate\\Source\\Gamejam2023HackJamClient.Target.cs",
+		"C:\\Jam\\Intermediate\\Source\\Gamejam2023HackJamEditor.Target.cs",
+		"C:\\Jam\\Intermediate\\Source\\Gamejam2023HackJamServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
